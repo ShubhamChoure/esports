@@ -14,7 +14,7 @@ const SplashScreen = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5 }}
       >
-        TECHOBASH 2025
+        TECHNOBASH 2025
       </motion.p>
       <motion.h1
         className="text-white text-6xl font-bold mb-2"
