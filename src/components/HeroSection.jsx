@@ -16,7 +16,7 @@ export default function HeroSection() {
           transition={{ duration: 0.5 }}
         >
           <h1 className="text-4xl md:text-6xl font-bold mb-6 text-white">eSports Tournament</h1>
-          <p className="text-xl md:text-2xl text-white mb-8">PGMC IT DEPARTMENT</p>
+          <p className="text-xl md:text-2xl text-white mb-8">PGMCOE IT DEPARTMENT</p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">

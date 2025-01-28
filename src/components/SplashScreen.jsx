@@ -30,7 +30,7 @@ const SplashScreen = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.4 }}
       >
-        BY PMGC IT DEPT
+        BY PGMCOE IT DEPT
       </motion.p>
     </motion.div>
   )
