@@ -49,7 +49,7 @@ export default function Navbar({ onContactClick, onRulesClick, onLocationClick }
               Location
             </Button>
             <Button asChild className="bg-green-600 hover:bg-green-700 text-white">
-              <a href="https://forms.gle/your-google-form-link" target="_blank" rel="noopener noreferrer">
+              <a href="https://forms.gle/HLBghN7Qrwf3k8GV6" target="_blank" rel="noopener noreferrer">
                 Register Now
               </a>
             </Button>

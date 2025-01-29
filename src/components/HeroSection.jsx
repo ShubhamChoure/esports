@@ -36,7 +36,7 @@ export default function HeroSection() {
             size="lg"
             className="bg-green-600 hover:bg-green-700 text-white text-xl px-8 py-6 rounded-full shadow-lg shadow-green-500/20"
           >
-            <a href="https://forms.gle/your-google-form-link" target="_blank" rel="noopener noreferrer">
+            <a href="https://forms.gle/HLBghN7Qrwf3k8GV6" target="_blank" rel="noopener noreferrer">
               Register Now
             </a>
           </Button>
