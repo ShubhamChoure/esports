@@ -6,12 +6,12 @@ export default function Contact() {
     {
       name: "Krishna Prajapati",
       game: "volunteer",
-      phone: "+91 8485017092",
+      phone: "+91 8149318104",
     },
     {
       name: "Suraj Darade",
       game: "volunteer",
-      phone: "+91 9322306954",
+      phone: "+91 8265046810",
     },
   ]
 
