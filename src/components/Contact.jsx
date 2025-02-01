@@ -4,14 +4,14 @@ import { Phone } from "lucide-react"
 export default function Contact() {
   const contacts = [
     {
-      name: "Yash Andhare",
-      game: "BGMI",
-      phone: "+91 8485017092",
+      name: "Krishna Prajapati",
+      game: "volunteer",
+      phone: "+91 8149318104",
     },
     {
-      name: "Dushyant Patil",
-      game: "Free Fire",
-      phone: "+91 9322306954",
+      name: "Suraj Darade",
+      game: "volunteer",
+      phone: "+91 8265046810",
     },
   ]
 
