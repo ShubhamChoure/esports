@@ -19,7 +19,7 @@ export default function Navbar({ onContactClick, onRulesClick, onLocationClick }
     >
       <div className="container mx-auto flex flex-wrap justify-between items-center">
         <div className="text-white font-bold text-center">
-          <div className="text-2xl tracking-wider">TECHNOBASH</div>
+          <div className="text-2xl tracking-wider">TECHNOMEET</div>
           <div className="text-sm tracking-widest">2025</div>
         </div>
         <Button variant="ghost" className="md:hidden" onClick={toggleMenu}>

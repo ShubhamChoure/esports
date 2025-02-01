@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion"
 import { Button } from "@/components/ui/button"
-import { Calendar, Trophy } from "lucide-react"
+import { Calendar, Trophy, Info } from "lucide-react"
 
 export default function HeroSection() {
   return (
@@ -27,7 +27,11 @@ export default function HeroSection() {
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
               <Trophy className="w-8 h-8 text-green-400 mx-auto mb-4" />
               <h3 className="text-xl font-semibold text-white mb-2">Prize Pool</h3>
-              <p className="text-green-300">₹6000</p>
+              <p className="text-green-300">₹3000+</p>
+              <div className="flex items-center justify-center mt-2 text-sm text-green-300">
+                <Info className="w-4 h-4 mr-1" />
+                <span>May increase based on registrations</span>
+              </div>
             </div>
           </div>
 
